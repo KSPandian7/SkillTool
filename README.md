@@ -2,7 +2,7 @@
 
 ## → A smart recommendation tool built with Streamlit, FAISS, and Sentence Transformers to suggest related frameworks based on a given technology name.
 
-### 🔗 Live Demo: [skilltool.streamlit.app](url)
+### 🔗 Live Demo: [skilltool.streamlit.app](https://skilltool.streamlit.app/)
 
 ### 📌 Overview
 ![image](https://github.com/user-attachments/assets/d26c2cb3-3faa-4943-b64f-dd0b39bc529b)
