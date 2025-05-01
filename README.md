@@ -1,4 +1,7 @@
 # SkillTool – Framework Recommendation System
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KSPandian7/SkillTool/main/SkillTool.png" width="100%" alt="Skill Tool Banner"/>
+</p>
 
 ## → A smart recommendation tool built with Streamlit, FAISS, and Sentence Transformers to suggest related frameworks based on a given technology name.
 
