@@ -52,7 +52,7 @@ streamlit run app.py
 
 ### 🤖 Sample Use Case
 
-####Input:
+#### Input:
 → React.js<br>
 #### Output:
 → Angular.js<br>
