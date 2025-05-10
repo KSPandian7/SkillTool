@@ -16,7 +16,6 @@
 
 ### 🧠 How It Works
 → **Data**: Loads a curated list of frameworks from skills.csv<br>
-![image](https://github.com/user-attachments/assets/3dc8f921-fee2-4f0b-b3a1-5b6cd229dbac)<br>
 → **Embeddings**: Converts all skill names into vectors using SentenceTransformer (all-MiniLM-L6-v2).<br>
 → **Indexing**: Uses FAISS to build a similarity index.<br>
 → **Search**: Accepts user input and retrieves the top-k closest technologies (excluding exact matches).<br>
